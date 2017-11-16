@@ -1,4 +1,4 @@
-# mumarket
+# MU Market
 
 Product Description:
 
