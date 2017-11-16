@@ -1,0 +1,6 @@
+SVN location for MIS-695 B Spring 2017 class.
+Put all files for your project in this directory
+Check this directory our to your local WAMP server WWW directory
+
+
+Modification 03/05/2017

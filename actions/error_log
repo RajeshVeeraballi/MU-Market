@@ -1,0 +1,70 @@
+[14-Apr-2017 14:26:34 America/Chicago] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home10/w1marcy/public_html/MUM/actions/postAdd.php on line 15
+[14-Apr-2017 15:24:27 America/Chicago] PHP Fatal error:  Call to undefined function test_input() in /home10/w1marcy/public_html/MUM/actions/register.php on line 21
+[14-Apr-2017 15:27:47 America/Chicago] PHP Warning:  preg_match(): Unknown modifier '$' in /home10/w1marcy/public_html/MUM/actions/register.php on line 35
+[14-Apr-2017 15:27:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home10/w1marcy/public_html/MUM/actions/register.php:35) in /home10/w1marcy/public_html/MUM/actions/register.php on line 42
+[14-Apr-2017 15:29:56 America/Chicago] PHP Warning:  preg_match(): Unknown modifier '$' in /home10/w1marcy/public_html/MUM/actions/register.php on line 35
+[14-Apr-2017 15:29:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home10/w1marcy/public_html/MUM/actions/register.php:35) in /home10/w1marcy/public_html/MUM/actions/register.php on line 42
+[14-Apr-2017 15:30:08 America/Chicago] PHP Warning:  preg_match(): Unknown modifier '%' in /home10/w1marcy/public_html/MUM/actions/register.php on line 35
+[14-Apr-2017 15:30:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home10/w1marcy/public_html/MUM/actions/register.php:35) in /home10/w1marcy/public_html/MUM/actions/register.php on line 42
+[14-Apr-2017 15:30:26 America/Chicago] PHP Warning:  preg_match(): Unknown modifier '&amp;' in /home10/w1marcy/public_html/MUM/actions/register.php on line 35
+[14-Apr-2017 15:30:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home10/w1marcy/public_html/MUM/actions/register.php:35) in /home10/w1marcy/public_html/MUM/actions/register.php on line 42
+[14-Apr-2017 15:30:49 America/Chicago] PHP Warning:  preg_match(): Unknown modifier '_' in /home10/w1marcy/public_html/MUM/actions/register.php on line 35
+[14-Apr-2017 15:30:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home10/w1marcy/public_html/MUM/actions/register.php:35) in /home10/w1marcy/public_html/MUM/actions/register.php on line 42
+[14-Apr-2017 15:31:10 America/Chicago] PHP Warning:  preg_match(): Unknown modifier '-' in /home10/w1marcy/public_html/MUM/actions/register.php on line 35
+[14-Apr-2017 15:31:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home10/w1marcy/public_html/MUM/actions/register.php:35) in /home10/w1marcy/public_html/MUM/actions/register.php on line 42
+[15-Apr-2017 01:43:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home10/w1marcy/public_html/MUM/actions/postAdd.php on line 28
+[15-Apr-2017 01:44:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home10/w1marcy/public_html/MUM/actions/postAdd.php on line 35
+[15-Apr-2017 01:44:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home10/w1marcy/public_html/MUM/actions/postAdd.php on line 35
+[15-Apr-2017 01:45:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home10/w1marcy/public_html/MUM/actions/postAdd.php on line 42
+[15-Apr-2017 01:45:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home10/w1marcy/public_html/MUM/actions/postAdd.php on line 42
+[15-Apr-2017 01:46:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home10/w1marcy/public_html/MUM/actions/postAdd.php on line 43
+[15-Apr-2017 01:46:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home10/w1marcy/public_html/MUM/actions/postAdd.php on line 43
+[15-Apr-2017 01:54:06 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home10/w1marcy/public_html/MUM/actions/postAdd.php on line 41
+[15-Apr-2017 02:05:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home10/w1marcy/public_html/MUM/actions/resetPassword.php on line 53
+[15-Apr-2017 02:10:33 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home10/w1marcy/public_html/MUM/actions/resetPassword.php on line 53
+[15-Apr-2017 02:11:33 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home10/w1marcy/public_html/MUM/actions/resetPassword.php on line 53
+[15-Apr-2017 02:34:46 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home10/w1marcy/public_html/MUM/actions/postAdd.php on line 41
+[15-Apr-2017 02:35:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home10/w1marcy/public_html/MUM/actions/postAdd.php on line 43
+[15-Apr-2017 02:48:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home10/w1marcy/public_html/MUM/actions/resetPassword.php:16) in /home10/w1marcy/public_html/MUM/actions/resetPassword.php on line 37
+[15-Apr-2017 04:22:38 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$' in /home10/w1marcy/public_html/MUM/actions/register.php on line 19
+[15-Apr-2017 04:23:17 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$' in /home10/w1marcy/public_html/MUM/actions/register.php on line 19
+[15-Apr-2017 04:27:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home10/w1marcy/public_html/MUM/actions/register.php:19) in /home10/w1marcy/public_html/MUM/actions/register.php on line 45
+[15-Apr-2017 04:28:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home10/w1marcy/public_html/MUM/actions/register.php:19) in /home10/w1marcy/public_html/MUM/actions/register.php on line 45
+[15-Apr-2017 04:59:28 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 04:59:28 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 04:59:28 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 8
+[15-Apr-2017 05:00:18 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:00:18 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:00:18 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 8
+[15-Apr-2017 05:01:13 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:01:13 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:01:13 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 8
+[15-Apr-2017 05:01:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:01:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:01:15 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 8
+[15-Apr-2017 05:01:51 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:01:51 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:01:51 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 8
+[15-Apr-2017 05:01:55 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:01:55 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:01:55 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 8
+[15-Apr-2017 05:02:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:02:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:02:43 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 8
+[15-Apr-2017 05:03:13 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:03:13 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:03:13 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 8
+[15-Apr-2017 05:03:19 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:03:19 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:03:19 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 8
+[15-Apr-2017 05:06:47 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 6
+[15-Apr-2017 05:07:11 America/Chicago] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 6
+[15-Apr-2017 05:08:32 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 7
+[15-Apr-2017 05:43:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 19
+[15-Apr-2017 05:44:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home10/w1marcy/public_html/MUM/actions/adsModeration.php on line 44
+[15-Apr-2017 05:51:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home10/w1marcy/public_html/MUM/actions/requestProduct.php on line 32
+[15-Apr-2017 05:53:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home10/w1marcy/public_html/MUM/actions/requestProduct.php on line 12
+[20-Apr-2017 16:17:05 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home10/w1marcy/public_html/MUM/actions/login.php on line 35
+[03-May-2017 13:14:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home10/w1marcy/public_html/MUM/actions/login.php on line 35
+[05-May-2017 22:27:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home10/w1marcy/public_html/MUM/actions/login.php on line 35
+[05-May-2017 22:28:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home10/w1marcy/public_html/MUM/actions/login.php on line 35
